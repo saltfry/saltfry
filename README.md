@@ -1,4 +1,4 @@
-## here for the plot
+## Turning PDFs into vectors and minor inconveniences into engineering projects.
 
 <!--
 **saltfry/saltfry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
